@@ -11,7 +11,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'dumi777';
+import { Foo } from 'mosso-ui';
 
 export default () => <Foo title="First Demo" />;
 ```
