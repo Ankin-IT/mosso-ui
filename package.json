@@ -27,9 +27,11 @@
     ]
   },
   "dependencies": {
+    "antd": "^4.17.2",
     "react": "^16.12.0 || ^17.0.0"
   },
   "devDependencies": {
+    "@umijs/plugin-antd": "^0.13.0",
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.3",
