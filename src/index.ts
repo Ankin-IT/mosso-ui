@@ -1,2 +1,3 @@
-export { default as Foo } from './Foo';
-export { default as Foo2 } from './Foo2';
+export { Foo } from './IIC';
+export { Foo2 } from './IIC';
+export { default as Foo3 } from './Foo3';

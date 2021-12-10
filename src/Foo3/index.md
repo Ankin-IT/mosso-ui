@@ -1,11 +1,15 @@
 ---
 nav:
-  title: Components
+  title: 组建
   path: /components
+  order: 2
+group:
+  path: /form
+  title: TUCKUI
   order: 2
 ---
 
-## Foo2
+## Foo3
 
 Demo:
 
