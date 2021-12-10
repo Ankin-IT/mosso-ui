@@ -11,9 +11,9 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'mosso-ui';
+import { Foo2 } from 'mosso-ui';
 
-export default () => <Foo title="First Demo" />;
+export default () => <Foo2 title="First Demo" />;
 ```
 
 More skills for writing demo: https://d.umijs.org/guide/basic#write-component-demo
