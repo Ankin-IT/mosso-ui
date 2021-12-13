@@ -11,13 +11,14 @@ export default defineConfig({
   mode: 'site',
   hash: true,
   // Because of using GitHub Pages
-  base: `/${repo}/`,
+  base: `/${repo}`,
   publicPath: `/${repo}/`,
+  exportStatic: {},
   navs: [
     null,
     {
       title: 'GitHub',
-      path: 'https://github.com/Ankin-IT/mosso-ui',
+      path: 'https://github.com/umijs/dumi-template',
     },
   ],
   // more config: https://d.umijs.org/config
