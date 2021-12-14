@@ -11,8 +11,8 @@ export default defineConfig({
   mode: 'site',
   hash: true,
   // Because of using GitHub Pages
-  base: `/${repo}`,
-  publicPath: `/${repo}/`,
+  // base: `/${repo}`,
+  // publicPath: `/${repo}/`,
   exportStatic: {},
   navs: [
     null,
