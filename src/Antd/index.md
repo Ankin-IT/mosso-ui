@@ -5,7 +5,7 @@ nav:
   order: 2
 group:
   path: /form
-  title: TUCKUI
+  title: Antd
   order: 2
 ---
 
@@ -13,11 +13,6 @@ group:
 
 Demo:
 
-```tsx
-import React from 'react';
-import { Foo3 } from 'mosso-ui';
-
-export default () => <Foo3 title="First Demo" />;
-```
+纯文档
 
 More skills for writing demo: https://d.umijs.org/guide/basic#write-component-demo
